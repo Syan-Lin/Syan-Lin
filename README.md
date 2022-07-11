@@ -4,17 +4,17 @@
 <p> </p>
 </div>
 <div align="center">
-<a href="https://siyuanblog.cn/"><img src="https://img.shields.io/badge/Website-blog-blue?style=for-the-badge&logo=Internet%20Explorer"/></a>
-<img src="https://img.shields.io/badge/Work-scholarship-red?style=for-the-badge&logo=GitBook&logoColor=white"/>
-<img src="https://img.shields.io/badge/Specialty-backend-blue?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
-<a href="mailto:475694569@qq.com"><img src="https://img.shields.io/badge/Contact%20me-Email-yellow?style=for-the-badge&logo=Mail.Ru"/></a>
+<a href="https://siyuanblog.cn/"><img src="https://img.shields.io/badge/Website-个人博客-blue?style=for-the-badge&logo=Internet%20Explorer"/></a>
+<img src="https://img.shields.io/badge/Current Work-科研狗-red?style=for-the-badge&logo=GitBook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Specialty-后端-blue?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
+<a href="mailto:475694569@qq.com"><img src="https://img.shields.io/badge/Contact%20me-邮箱-yellow?style=for-the-badge&logo=Mail.Ru"/></a>
 </div>
 
-## 📝 Current Project
-- [Mini-Web-Projects](https://github.com/Syan-Lin/Mini-Web-Projects)
+## 📝 目前项目
+- [Mini-Web-Projects](https://github.com/Syan-Lin/Mini-Web-Projects) 带有中文注释的迷你 Web 项目练习，一起来学前端吧！
 
-## 💻 Tech Stack
-🔨 Language:
+## 💻 技术栈
+🔨 编程语言:
 
 &emsp;&emsp;
 ![](https://img.shields.io/badge/C%2B%2B-A-green?style=flat) ![](https://img.shields.io/badge/Java-B-blue?style=flat) ![](https://img.shields.io/badge/HTML5-B-blue?style=flat) ![](https://img.shields.io/badge/CSS3-B-blue?style=flat) ![](https://img.shields.io/badge/JavaScript-B-blue?style=flat) ![](https://img.shields.io/badge/TypeScript-B-blue?style=flat) ![](https://img.shields.io/badge/Python-C-red?style=flat) ![](https://img.shields.io/badge/C%23-C-red?style=flat)
