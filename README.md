@@ -1,6 +1,6 @@
 ## 🙋 Hi there
 <div align="center">
-<img src="https://github.com/Syan-Lin/Syan-Lin/blob/main/Resources/banner.png"/>
+<img src="https://github.com/Syan-Lin/Syan-Lin/blob/main/Resources/banner.png" width="700px"/>
 </div>
 <div align="center">
 <a href="https://siyuanblog.cn/"><img src="https://img.shields.io/badge/Website-blog-blue?style=for-the-badge&logo=Internet%20Explorer"/></a>
