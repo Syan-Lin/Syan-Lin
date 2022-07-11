@@ -1,6 +1,7 @@
 ## 🙋 Hi there
-
-![](https://img.shields.io/badge/Website-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-blue?style=for-the-badge&logo=Internet%20Explorer) ![](https://img.shields.io/badge/Current%20Work-%E7%A7%91%E7%A0%94%E7%8B%97-red?style=for-the-badge&logo=GitBook&logoColor=white) ![](https://img.shields.io/badge/Specialty-%E5%90%8E%E7%AB%AF-blue?style=for-the-badge&logo=C%2B%2B&logoColor=white) [![](https://img.shields.io/badge/Contact%20me-%E9%82%AE%E7%AE%B1-yellow?style=for-the-badge&logo=Mail.Ru)](mailto:475694569@qq.com)
+<div align="center">
+![](https://img.shields.io/badge/Website-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-blue?style=for-the-badge&logo=Internet%20Explorer)   ![](https://img.shields.io/badge/Current%20Work-%E7%A7%91%E7%A0%94%E7%8B%97-red?style=for-the-badge&logo=GitBook&logoColor=white)   ![](https://img.shields.io/badge/Specialty-%E5%90%8E%E7%AB%AF-blue?style=for-the-badge&logo=C%2B%2B&logoColor=white)   [![](https://img.shields.io/badge/Contact%20me-%E9%82%AE%E7%AE%B1-yellow?style=for-the-badge&logo=Mail.Ru)](mailto:475694569@qq.com)
+</div>
 
 <!--
 **Syan-Lin/Syan-Lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
