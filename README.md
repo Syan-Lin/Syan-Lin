@@ -14,13 +14,9 @@
 
 ## 🔨 Tech Stack
 Language:
-- A:![](https://img.shields.io/badge/C%2B%2B-A-blue?style=for-the-badge)
-- B:![](https://img.shields.io/badge/Java-B-yellow?style=for-the-badge) ![](https://img.shields.io/badge/HTML5-B-red?style=for-the-badge) ![](https://img.shields.io/badge/CSS3-B-blue?style=for-the-badge) ![](https://img.shields.io/badge/JavaScript-B-blue?style=for-the-badge) ![](https://img.shields.io/badge/TypeScript-B-blue?style=for-the-badge)
-- C:![](https://img.shields.io/badge/Python-C-blue?style=for-the-badge)![](https://img.shields.io/badge/C%23-C-green?style=for-the-badge)
-
-> For level A: Reading some books related, knowing the bottom principle and often used for programming, can work on a large program.
-> For level B: Often used or knowing the bottom principle, can work on a medium program.
-> For level C: Just knowing how to use, and programming some module task.
+- A:![](https://img.shields.io/badge/C%2B%2B-A-blue?style=flat)
+- B:![](https://img.shields.io/badge/Java-B-yellow?style=flat) ![](https://img.shields.io/badge/HTML5-B-red?style=flat) ![](https://img.shields.io/badge/CSS3-B-blue?style=flat) ![](https://img.shields.io/badge/JavaScript-B-blue?style=flat) ![](https://img.shields.io/badge/TypeScript-B-blue?style=flat)
+- C:![](https://img.shields.io/badge/Python-C-blue?style=flat)![](https://img.shields.io/badge/C%23-C-green?style=flat)
 
 <!--
 **Syan-Lin/Syan-Lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
