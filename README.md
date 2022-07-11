@@ -1,7 +1,7 @@
 ## 🙋 Hi there
 <div align="center">
 <img src="https://github.com/Syan-Lin/Syan-Lin/blob/main/Resources/banner.png" width="700px"/>
-<br>
+<p> </p>
 </div>
 <div align="center">
 <a href="https://siyuanblog.cn/"><img src="https://img.shields.io/badge/Website-blog-blue?style=for-the-badge&logo=Internet%20Explorer"/></a>
@@ -15,11 +15,12 @@
 
 ## 🔨 Tech Stack
 Language:
+
 ![](https://img.shields.io/badge/C%2B%2B-A-blue?style=flat)
 
 ![](https://img.shields.io/badge/Java-B-yellow?style=flat) ![](https://img.shields.io/badge/HTML5-B-red?style=flat) ![](https://img.shields.io/badge/CSS3-B-blue?style=flat) ![](https://img.shields.io/badge/JavaScript-B-blue?style=flat) ![](https://img.shields.io/badge/TypeScript-B-blue?style=flat)
 
-![](https://img.shields.io/badge/Python-C-blue?style=flat)![](https://img.shields.io/badge/C%23-C-green?style=flat)
+![](https://img.shields.io/badge/Python-C-blue?style=flat) ![](https://img.shields.io/badge/C%23-C-green?style=flat)
 
 <!--
 **Syan-Lin/Syan-Lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
