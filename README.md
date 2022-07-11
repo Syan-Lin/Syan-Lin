@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Metrics](https://metrics.lecoq.io/Syan-Lin?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)
+
 <!--
 **Syan-Lin/Syan-Lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
