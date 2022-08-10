@@ -11,6 +11,7 @@
 </div>
 
 ## 📝 目前项目
+- [Design-Patterns-Cpp](https://github.com/Syan-Lin/Design-Patterns-Cpp) C++11 实现设计模式示例
 - [Mini-Web-Projects](https://github.com/Syan-Lin/Mini-Web-Projects) 带有中文注释的迷你 Web 项目练习，一起来学前端吧！
 
 ## 💻 技术栈
