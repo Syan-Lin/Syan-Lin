@@ -1,6 +1,6 @@
 ## 🙋 Hi there!
 <div align="center">
-<img src="https://github.com/Syan-Lin/Syan-Lin/blob/main/Resources/banner.png" width="700px"/>
+<img src="https://github.com/Syan-Lin/Syan-Lin/blob/main/Resources/banner.gif" width="700px"/>
 <p> </p>
 </div>
 <div align="center">
