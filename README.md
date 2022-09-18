@@ -10,11 +10,11 @@
 <a href="mailto:475694569@qq.com"><img src="https://img.shields.io/badge/Contact%20me-邮箱-yellow?style=for-the-badge&logo=Mail.Ru"/></a>
 </div>
 
-## 📝 目前项目
+## 📝 目前项目（正在进行）
 - [Design-Patterns-Cpp](https://github.com/Syan-Lin/Design-Patterns-Cpp) C++11 实现设计模式示例
 - [Mini-Web-Projects](https://github.com/Syan-Lin/Mini-Web-Projects) 带有中文注释的迷你 Web 项目练习，一起来学前端吧！
 
-## ✅ 完成项目
+## ✅ 完成项目（长期维护）
 - [Tiny-JSON](https://github.com/Syan-Lin/Tiny-JSON) C++11 一个超轻量级、极简的 JSON 解析器
 
 ## 💻 技术栈
