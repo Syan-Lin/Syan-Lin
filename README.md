@@ -16,7 +16,7 @@
 - [Thread-Poll](https://github.com/Syan-Lin/Thread-Poll) C++11 线程池
 
 ## ✅ 完成项目（长期维护）
-- [Tiny-JSON](https://github.com/Syan-Lin/Tiny-JSON) C++17 超轻量级、极简的 JSON 解析器
+- [Tiny-JSON](https://github.com/Syan-Lin/Tiny-JSON) C++11 超轻量级、极简的 JSON 解析器
 
 ## 💻 技术栈
 🔨 编程语言:
