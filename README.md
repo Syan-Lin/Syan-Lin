@@ -11,12 +11,12 @@
 </div>
 
 ## 📝 目前项目（正在进行）
-- [Design-Patterns-Cpp](https://github.com/Syan-Lin/Design-Patterns-Cpp) C++11 实现设计模式示例
 - [Mini-Web-Projects](https://github.com/Syan-Lin/Mini-Web-Projects) 带有中文注释的迷你 Web 项目练习，一起来学前端吧！
 - [Thread-Poll](https://github.com/Syan-Lin/Thread-Poll) C++11 线程池
 
 ## ✅ 完成项目（长期维护）
 - [Tiny-JSON](https://github.com/Syan-Lin/Tiny-JSON) C++11 超轻量级、极简的 JSON 解析器
+- [Design-Patterns-Cpp](https://github.com/Syan-Lin/Design-Patterns-Cpp) C++11 实现设计模式示例
 
 ## 💻 技术栈
 🔨 编程语言:
