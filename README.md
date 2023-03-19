@@ -26,7 +26,7 @@
 🔨 编程语言:
 
 &emsp;&emsp;
-![](https://img.shields.io/badge/C%2B%2B-A-green?style=flat) ![](https://img.shields.io/badge/Java-B-blue?style=flat) ![](https://img.shields.io/badge/HTML5-B-blue?style=flat) ![](https://img.shields.io/badge/CSS3-B-blue?style=flat) ![](https://img.shields.io/badge/JavaScript-B-blue?style=flat) ![](https://img.shields.io/badge/TypeScript-B-blue?style=flat) ![](https://img.shields.io/badge/Python-C-red?style=flat) ![](https://img.shields.io/badge/C%23-C-red?style=flat)
+![](https://img.shields.io/badge/C%2B%2B-A-green?style=flat) ![](https://img.shields.io/badge/Java-B-blue?style=flat) ![](https://img.shields.io/badge/Python-B-blue?style=flat) ![](https://img.shields.io/badge/TypeScript-C-blue?style=flat)
 
 ---
 <div align="center">
