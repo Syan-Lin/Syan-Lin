@@ -11,7 +11,6 @@
 </div>
 
 ## 📝 目前项目（正在进行）
-- [CyberWaifu](https://github.com/Syan-Lin/CyberWaifu) ⭐⭐⭐ 基于 LLM, TTS 的真实体验的聊天机器人
 - [esynet](https://github.com/Syan-Lin/esynet) ⭐⭐⭐现代 C++ 网络库
 
 ## ✅ 完成项目（长期维护）
