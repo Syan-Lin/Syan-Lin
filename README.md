@@ -16,6 +16,11 @@
 ## ✅ 完成项目（长期维护）
 - [Tiny-JSON](https://github.com/Syan-Lin/Tiny-JSON) ⭐C++11 超轻量级、极简的 JSON 解析器
 - [Thread-Poll](https://github.com/Syan-Lin/Thread-Poll) C++11 线程池
+- [tetris](https://github.com/Syan-Lin/tetris) C++17 实现的带有丰富 UI 的终端俄罗斯方块
+- [pyboxmaker](https://github.com/Syan-Lin/pyboxmaker) python3 实现的终端方块样式信息的打印
+
+## ❌ 放弃维护
+- [CyberWaifu](https://github.com/Syan-Lin/CyberWaifu) LLM + TTS 的真实感聊天机器人 | QQ 机器人 | 支持表情包、QQ 表情、联网搜索
 
 ## 🏋️ 学习项目
 - [Design-Patterns-Cpp](https://github.com/Syan-Lin/Design-Patterns-Cpp) C++11 实现设计模式示例
@@ -26,7 +31,7 @@
 🔨 编程语言:
 
 &emsp;&emsp;
-![](https://img.shields.io/badge/C%2B%2B-A-green?style=flat) ![](https://img.shields.io/badge/Java-B-blue?style=flat) ![](https://img.shields.io/badge/Python-B-blue?style=flat) ![](https://img.shields.io/badge/TypeScript-C-red?style=flat)
+![](https://img.shields.io/badge/C%2B%2B-A-green?style=flat) ![](https://img.shields.io/badge/Python-A-blue?style=flat) ![](https://img.shields.io/badge/Java-B-blue?style=flat) ![](https://img.shields.io/badge/Go-C-red?style=flat) ![](https://img.shields.io/badge/TypeScript-C-red?style=flat)
 
 ---
 <div align="center">
