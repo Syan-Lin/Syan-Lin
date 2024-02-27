@@ -16,7 +16,7 @@
 ## ✅ 完成项目（长期维护）
 - [Tiny-JSON](https://github.com/Syan-Lin/Tiny-JSON) ⭐C++11 超轻量级、极简的 JSON 解析器
 - [Thread-Poll](https://github.com/Syan-Lin/Thread-Poll) C++11 线程池
-- [tetris](https://github.com/Syan-Lin/tetris) C++17 实现的带有丰富 UI 的终端俄罗斯方块
+- [Tetris](https://github.com/Syan-Lin/tetris) C++17 实现的带有丰富 UI 的终端俄罗斯方块
 - [pyboxmaker](https://github.com/Syan-Lin/pyboxmaker) python3 实现的终端方块样式信息的打印
 
 ## ❌ 放弃维护
