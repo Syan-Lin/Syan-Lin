@@ -6,7 +6,7 @@
 <div align="center">
 <a href="https://siyuanblog.cn/"><img src="https://img.shields.io/badge/Website-个人博客-blue?style=for-the-badge&logo=Internet%20Explorer"/></a>
 <img src="https://img.shields.io/badge/Current Work-科研狗-red?style=for-the-badge&logo=GitBook&logoColor=white"/>
-<img src="https://img.shields.io/badge/Specialty-后端-blue?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Specialty-后端/深度学习-blue?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
 <a href="mailto:475694569@qq.com"><img src="https://img.shields.io/badge/Contact%20me-邮箱-yellow?style=for-the-badge&logo=Mail.Ru"/></a>
 </div>
 
@@ -31,7 +31,7 @@
 🔨 编程语言:
 
 &emsp;&emsp;
-![](https://img.shields.io/badge/C%2B%2B-A-green?style=flat) ![](https://img.shields.io/badge/Python-A-blue?style=flat) ![](https://img.shields.io/badge/Java-B-blue?style=flat) ![](https://img.shields.io/badge/Go-C-red?style=flat) ![](https://img.shields.io/badge/TypeScript-C-red?style=flat)
+![](https://img.shields.io/badge/C%2B%2B-A-green?style=flat) ![](https://img.shields.io/badge/Python-A-green?style=flat) ![](https://img.shields.io/badge/Java-B-blue?style=flat) ![](https://img.shields.io/badge/Go-C-red?style=flat) ![](https://img.shields.io/badge/TypeScript-C-red?style=flat)
 
 ---
 <div align="center">
