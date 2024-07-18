@@ -12,7 +12,6 @@
 
 ## 📝 目前项目（正在进行）
 - [baize](https://github.com/Syan-Lin/baize)⭐⭐⭐将 LLM 能力集成至终端的工具框架
-- [esynet](https://github.com/Syan-Lin/esynet) ⭐⭐现代 C++ 网络库
 
 ## ✅ 完成项目（长期维护）
 - [Tiny-JSON](https://github.com/Syan-Lin/Tiny-JSON) ⭐C++11 超轻量级、极简的 JSON 解析器
@@ -23,6 +22,7 @@
 - [CyberWaifu](https://github.com/Syan-Lin/CyberWaifu) LLM + TTS 的真实感聊天机器人 | QQ 机器人 | 支持表情包、QQ 表情、联网搜索
 
 ## 🏋️ 学习项目
+- [esynet](https://github.com/Syan-Lin/esynet) 现代 C++ 网络库
 - [Design-Patterns-Cpp](https://github.com/Syan-Lin/Design-Patterns-Cpp) C++11 实现设计模式示例
 - [Network-Programming-Step-By-Step](https://github.com/Syan-Lin/Network-Programming-Step-By-Step) Linux 网络编程入门，现代 C++
 - [Mini-Web-Projects](https://github.com/Syan-Lin/Mini-Web-Projects) 带有中文注释的迷你 Web 项目练习
